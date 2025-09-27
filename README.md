@@ -10,3 +10,8 @@ download
 
 https://www.pling.com/p/2322583/
 
+## photos
+
+<img width="1280" height="800" alt="update" src="https://github.com/user-attachments/assets/b6ebbc7a-274f-442f-9203-673200726bde" />
+
+<img width="1920" height="1200" alt="Screenshot_20250928_000940" src="https://github.com/user-attachments/assets/bef38334-a27f-4e9f-9741-8718e161b70d" />
